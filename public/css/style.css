@@ -1,0 +1,458 @@
+.boarder {
+    margin-right: 20px;
+}
+.greet p{
+    font-size: 60px;
+    color: red;
+    margin-right: 30px;
+}
+.trademark{
+  margin-right: 40px;
+}
+
+.slogan p{
+   color: red;
+   font-size: 40px;
+  
+}
+.main-nav{
+    margin-top: 20px;
+}
+.letter h3{
+    color: red;
+}
+.letter{
+    margin-right:30px;
+    margin-bottom: 20px;
+}
+.section{
+    margin-right:30px;
+}
+
+.money{
+    padding-left: 20px;
+}
+.profile{
+    color: red;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 60%;
+}
+
+.log a:hover{
+    color: red;
+    text-decoration: none;
+}
+.sign a:hover{
+    color: red;
+    text-decoration: none;
+}
+.set{
+    padding-left: 2px;
+}
+.set a{
+    color: black;
+}
+.set a:hover{
+    color: red;
+    text-decoration: none;
+}
+.bottom a:hover{
+    color: red;
+}
+.bottom li{
+    list-style: none;
+    color:black
+    text-decoration: none;
+}
+.bottom li a{
+    text-decoration: none;
+    list-style: none;
+    color:black;
+}
+.inside h3{
+    color:red;
+    margin-right: 20px;
+}
+.inside ul{
+    padding-left: 0px;
+}
+.main-nav li a{
+    text-align: none;
+    text-decoration: none;
+    list-style: none;
+    display: inline;
+    color:black;
+}
+.main-nav ul{
+    text-align: none;
+    text-decoration: none;
+    list-style: none;
+    display: inline;
+}
+.main-nav li {
+    float: left;
+    list-style: none;
+    margin-right: 85px;
+    padding-right: 20px;
+}
+
+
+.top-bar a{
+    text-align: none;
+    text-decoration: none;
+    /*list-style: none;*/
+    display: inline;
+    color:black;
+}
+
+.logo p{
+    color: red;
+    font-size: 20px;
+}
+
+.front{
+    margin-right: 80px;
+    margin-bottom: 20px;
+}
+.middle{
+    margin-right: 80px;
+    margin-bottom: 20px;
+}
+.side{
+    margin-right: 80px;
+    margin-bottom: 20px;
+}
+.bottom p{
+    color: red;
+}
+.submit{
+    color: rgb(8, 8, 8);
+
+}
+.contact{
+    color: black;
+    margin-bottom: 20px;
+}
+.product p{
+    color: black;
+}
+.product a{
+    color: black;
+}
+.product-2{
+    margin-top: 40px;
+}
+.product-2 a{
+    color: black;
+}
+.product-2 a:hover{
+    color: red;
+    text-decoration: none;
+}
+.product-3{
+    margin-top: 40px;
+}
+.product-3 a{
+    color: black;
+}
+.product-3 a:hover{
+    color: red;
+    text-decoration: none;
+}
+.second-set p{
+    color: black;
+}
+.second-set a{
+    color: black;
+}
+.third-set a:hover{
+    color: red;
+    text-decoration: none;
+}
+.third-set p{
+    color: black;
+}
+.third-set a{
+    color: black;
+}
+.upper{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.awards{
+    margin-right:30px;
+}
+.awards img{
+    margin-bottom: 20px;
+}
+.car-1{
+    margin-right: 40px;
+}
+.car-2{
+    margin-right: 40px;
+}
+.car-3{
+    margin-right: 40px;
+}
+.car-4{
+    margin-right: 40px;
+}
+.car-5{
+    margin-right: 40px;
+}
+.car-6{
+    margin-right: 40px;
+}
+.car-7{
+    margin-right: 40px;
+}
+.car-8{
+    margin-right: 40px;
+}
+.car-9{
+    margin-right: 40px;
+}
+.get{
+    margin-top: 20px;
+}
+@media (min-width: 768px){
+ 
+    .bottom a:hover{
+        color: red;
+    }
+    .bottom li{
+        list-style: none;
+        color:white;
+        text-decoration: none;
+    }
+    .bottom li a{
+        text-decoration: none;
+        list-style: none;
+        color:white;
+    }
+    .news h2{
+        color: red;
+    }
+    .cell p{
+        color: red;
+    }
+    .email{
+        color: red;
+    }
+    
+ 
+    .top-bar-inner a:hover{
+        color:red;
+        text-decoration: none;
+    }
+    .main-nav{
+        margin-right: 40px;
+        margin-bottom: 10px;
+    }
+    .topper{
+        margin-right: 65px;
+        padding-bottom: 20px;
+
+    }
+ 
+  
+    
+    .sum p{
+        color: black;
+        font-size: 20px;
+    }
+    .control a:hover{
+        color:red;
+    }
+    
+    .image-pic{
+        display: flex;
+        height: 450px;
+        margin: 5px;
+        width: 910px;
+    }
+    .image-placeholder {
+        display: flex;
+        height: 180px;
+        margin: 5px;
+        width: 260px;
+    }
+    
+    .image-placeholder > h4 {
+        align-self: center;
+        text-align: center;
+        width: 100%;
+    }
+    .line{
+        background-color: #eee;
+        display: flex;
+        height: 180px;
+        margin: 5px;
+        width: 260px;
+    }
+    
+    .line > h4 {
+        align-self: center;
+        text-align: center;
+        width: 100%;
+    }
+    
+    .greeting p{
+        color: red;
+        font-size: 20px;
+        margin-left: 50px;
+        margin-bottom: 30px;
+    }
+ 
+    .about{
+        margin-top: 20px;
+    }
+    .about h3 {
+        color: red;
+    }
+    .product{
+        margin-right: 45px;
+        margin-top: 20px;
+    }
+   
+    .brand{
+        margin-right: 45px;
+        margin-top: 20px;
+    }
+    .package{
+        margin-right: 45px;
+        margin-top: 20px;
+    }
+    .contact{
+        margin-top: 30px;
+        margin-right: 44px;
+    }
+
+    .pic-1{
+        margin-right: 40px;
+    }
+ 
+ 
+    .product a:hover{
+        color: red;
+        text-decoration: none;
+    }
+    .brand a:hover{
+        color: red;
+        text-decoration: none;
+    }
+    
+   
+    .upper{
+        margin-top: 20px;
+    }
+    
+    .pic-2{
+        margin-right: 40px;
+    }
+    .pic-4{
+        margin-right: 40px;
+    }
+    .pic-5{
+        margin-right: 40px;
+    }
+    .pic-6{
+        margin-right: 40px;
+    }
+    .pic-7{
+        margin-right: 40px;
+    }
+    .pic-8{
+        margin-right: 40px;
+    }
+    .pic-9{
+        margin-right: 40px;
+    }
+    .product-1{
+        margin-right: 43px;
+    }
+   .product-2{
+        margin-right: 40px;
+   }
+   .product-3{
+    margin-right: 43px;
+   }
+   .product-4{
+    margin-right: 43px;
+   }
+   .product-5{
+    margin-right: 43px;
+   }
+   .product-6{
+    margin-right: 43px;
+   }
+   .product-7{
+    margin-right: 43px;
+   }
+   .product-8{
+    margin-right: 43px;
+   }
+   .product-9{
+    margin-right: 43px;
+   }
+
+   .resent{
+       margin-top: 10px;
+       margin-right: 45px;
+   }
+   .pay{
+       margin-bottom: 20px;
+   }
+   .cash{
+       margin-right: 40px;
+   }
+    .top-menu{
+        margin-right: 20px;
+    }
+    .bottom{
+        background:black;
+    }
+
+    .inside{
+        margin-top: 20px;
+        margin-right:47px;
+        padding-top: 20px;
+        padding-right: 10px;
+        padding-bottom: 20px;
+    }
+}
+.sign{
+    margin-top: 20px;
+}
+.user{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.contact{
+    margin-bottom: 25px;
+    margin-top: 20px;
+}
+.about p{
+    font: 20px;
+}
+.main{
+    margin-right: 20px;
+}
+.info{
+    margin-right: 20px;
+}
+.info p{
+    font-size: 18px;
+}
+.top{
+    margin-top: 35px;
+}
+
+.submit{
+    margin-top: 20px;
+}
+.boarder{
+    margin-bottom: 20px;
+}
